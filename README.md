@@ -22,6 +22,6 @@
 
 ## Contact me
 - 📫 How to reach me:
-  - **Discord**: **``@jkaosnnkddkfnfjkskdfnekkdfbe``**:
+  - **Discord**: **``@searcher.crx``**:
   
 ![My Server](https://discord.com/api/guilds/1331719659816353834/widget.png?style=banner2)
