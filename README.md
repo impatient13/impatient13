@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://discord.com/users/1285271940789043210">
-    <img src="https://lanyard.cnrad.dev/api/1285271940789043210" alt="Discord Profile"/>
-  </a>
-</p>
-
 - 👋 Yo, I’m **[@502.sql](https://github.com/impatient13)** !
 - ⚜️ I am a French developer.
 
