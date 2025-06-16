@@ -1,4 +1,4 @@
-- 👋 Yo, I’m **[@502.sql](https://github.com/impatient13)** !
+- 👋 Yo, I’m **[@ESKA](https://github.com/impatient13)** !
 - ⚜️ I am a French developer.
 
 ## My learning projects
